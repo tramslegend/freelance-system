@@ -77,3 +77,6 @@ Freelancy is a web application designed to connect **clients** and **freelancers
 | **Moment.js** | Date & Time Formatting |
 | **Vue Router** | SPA Routing |
 | **Lodash (Debounce)** | Optimized Search Input Handling |
+
+## Credits
+Based on [zachgse/freelance-system](https://github.com/zachgse/freelance-system) by Zach Estrella.
